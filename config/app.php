@@ -194,4 +194,14 @@ return [
         // ...
     ])->toArray(),
 
+    /*
+    |--------------------------------------------------------------------------
+    | Webhook URL
+    |--------------------------------------------------------------------------
+    |
+    | This is your webhook url generated from discord
+    | 
+    */
+
+    'webhook_url' => env('APP_DISCORD_WEBHOOK_URL'),
 ];
