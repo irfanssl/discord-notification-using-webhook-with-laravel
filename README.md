@@ -16,7 +16,7 @@
 
 - make sure the requirements are fulfilled
 - copy your .env.example and rename as .env
-- paste your webhook url into .env on line DISCORD_WEBHOOK_URL
+- paste your webhook url into .env on line APP_DISCORD_WEBHOOK_URL
 - run this comand one by one:
 - composer install
 - npm install
