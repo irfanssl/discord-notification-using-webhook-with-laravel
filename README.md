@@ -27,6 +27,5 @@
 open second terminal :
 - npm run dev
 
-## Fyi : this project is using vite (modern JS asset bundling)
-visit the doc here : https://laravel.com/docs/9.x/vite
-no need to worry , everything is setup correctly according the doc. 
+## Video demonstration
+https://www.youtube.com/watch?v=OYudpJJuxH4
